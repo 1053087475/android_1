@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">百度搜索</string>
+    <string name="search">搜索</string>
+    <string name="baidu">百度一下</string>
+    <string name="sougou">搜狗一下</string>
+    <string name="urlrequest">url请求</string>
+</resources>
